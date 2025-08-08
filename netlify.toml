@@ -1,0 +1,4 @@
+[[redirects]]
+  from = "/*"
+  to = "https://aware-ox-469.convex.app/"
+  status = 200
